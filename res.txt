@@ -1,0 +1,20 @@
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 10 It means, that sequence is random
+the_longest_units_sequence_test: 0.889396353319093 It means, that sequence is random
+the_longest_units_sequence_test: 0.889396353319093 It means, that sequence is random
+the_longest_units_sequence_test: 0.889396353319093 It means, that sequence is random
+the_longest_units_sequence_test: 0.865525505416951 It means, that sequence is random
+the_longest_units_sequence_test: 0.19377917400603764 It means, that sequence is random
+
+
+frequency_bitwise_test: 0.5958830905651779 It means, that sequence is random
+identical_consecutive_bits_test: 0.8398542288275473 It means, that sequence is random
+the_longest_units_sequence_test: 0.9936235018804211 It means, that sequence is random
+frequency_bitwise_test: 0.5958830905651779 It means, that sequence is random
+identical_consecutive_bits_test: 0.8398542288275473 It means, that sequence is random
+the_longest_units_sequence_test: 0.9936235018804211 It means, that sequence is random
