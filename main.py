@@ -5,11 +5,11 @@ from task3 import the_longest_units_sequence_test
 
 def writeToRes(dst, nameOfTest, resOfTest):
     with open(dst, 'a') as f:
-        f.write(f"{nameOfTest}: {resOfTest}")
+        f.write(f"{nameOfTest}: {resOfTest}\n")
         if (resOfTest >= 0.01):
-            f.write(" It means, that sequence is random\n")
+            f.write("\tIt means, that sequence is random\n")
         else:
-            f.write(" It means, that sequence is NOT random\n")
+            f.write("\tIt means, that sequence is NOT random\n")
 
 
 if __name__ == '__main__':
