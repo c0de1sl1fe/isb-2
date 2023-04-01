@@ -1,1 +1,0 @@
-frequency_bitwise_test: 0.5958830905651779 It means, that sequence is random
