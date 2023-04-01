@@ -1,6 +1,9 @@
+generated sequence: 11011011001011010101011110110100100110010100100000100000111111001111101001100110100010000100111011101111110010001100111010111000
+
 frequency_bitwise_test: 0.5958830905651779
 	It means, that sequence is random
 identical_consecutive_bits_test: 0.8398542288275473
 	It means, that sequence is random
 the_longest_units_sequence_test: 0.9936235018804211
 	It means, that sequence is random
+
