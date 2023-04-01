@@ -10,7 +10,6 @@ def the_longest_units_sequence_test(sequence: list) -> float:
         count = 1
         longest = 1
         while j < i + 7:
-            print(f"n={j}", )
             change = False
             if (sequence[j]):
                 if (sequence[j] == sequence[j+1]):
@@ -26,10 +25,8 @@ def the_longest_units_sequence_test(sequence: list) -> float:
                         tmp = sequence[j]
                     count = 1
             j += 1
-        print(" ", "\n")
         if (count > longest):
             longest = count
-        print(longest)
         if (longest <= 1):
             v[0] += 1
         elif (longest == 2):
