@@ -17,7 +17,7 @@ int main()
 	{
 		myfile << res[i] << " ";
 	}
-	myfile << "\n";
+
 	myfile.close();
     return 1;
 }

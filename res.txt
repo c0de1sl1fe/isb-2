@@ -1,0 +1,2 @@
+frequency_bitwise_test: 0.008009942329880044 It means, that sequence is NOT random
+frequency_bitwise_test: 0.008009942329880044 It means, that sequence is NOT random
